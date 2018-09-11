@@ -1,0 +1,4 @@
+Netid  State      Recv-Q Send-Q Local Address:Port               Peer Address:Port              
+tcp    LISTEN     0      128       *:80                    *:*                   users:(("nginx",pid=21537,fd=7),("nginx",pid=21536,fd=7))
+tcp    LISTEN     0      128       *:22                    *:*                   users:(("sshd",pid=7416,fd=3))
+tcp    LISTEN     0      128       *:443                   *:*                   users:(("nginx",pid=21537,fd=9),("nginx",pid=21536,fd=9))

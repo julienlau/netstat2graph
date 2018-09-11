@@ -1,0 +1,20 @@
+09/11/2018 12:52:58 PM START
+09/11/2018 12:52:58 PM Process a log filelogs/netstat-ulysse-bis.log
+09/11/2018 12:52:58 PM ulysse-bis/49564/tcp
+09/11/2018 12:52:58 PM WORLD
+09/11/2018 12:52:58 PM platform-network.csv
+09/11/2018 12:52:58 PM Wrote ulysse-bis-network.png
+09/11/2018 12:52:58 PM Wrote ulysse-bis-network.dot
+09/11/2018 12:52:58 PM Process a log filelogs/netstat-ulysse.log
+09/11/2018 12:52:58 PM platform-network.csv
+09/11/2018 12:52:58 PM Wrote ulysse-network.png
+09/11/2018 12:52:58 PM Wrote ulysse-network.dot
+09/11/2018 12:52:58 PM Process a log filelogs/netstat-atlas1.log
+09/11/2018 12:52:58 PM platform-network.csv
+09/11/2018 12:52:59 PM Wrote atlas1-network.png
+09/11/2018 12:52:59 PM Wrote atlas1-network.dot
+09/11/2018 12:52:59 PM Process a log filelogs/netstat-danae-bis.log
+09/11/2018 12:52:59 PM platform-network.csv
+09/11/2018 12:52:59 PM Wrote danae-bis-network.png
+09/11/2018 12:52:59 PM Wrote danae-bis-network.dot
+09/11/2018 12:52:59 PM END

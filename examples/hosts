@@ -1,0 +1,28 @@
+#
+# hosts         This file describes a number of hostname-to-address
+#               mappings for the TCP/IP subsystem.  It is mostly
+#               used at boot time, when no name servers are running.
+#               On small systems, this file can be used instead of a
+#               "named" name server.
+# Syntax:
+#    
+# IP-Address  Full-Qualified-Hostname  Short-Hostname
+#
+
+127.0.0.1	localhost linux-gp62
+
+5.196.29.138	ulysse 		vps377620.ovh.net	vps377620
+91.121.101.59	atlas1
+137.74.43.48	ulysse-bis 	vps478811.ovh.net	vps478811
+54.36.188.227	danae-bis 	vps486889.ovh.net	vps486889
+
+# special IPv6 addresses
+::1             localhost ipv6-localhost ipv6-loopback
+
+fe00::0         ipv6-localnet
+
+ff00::0         ipv6-mcastprefix
+ff02::1         ipv6-allnodes
+ff02::2         ipv6-allrouters
+ff02::3         ipv6-allhosts
+

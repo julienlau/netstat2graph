@@ -1,0 +1,48 @@
+digraph "" {
+	graph [bb="0,0,362.5,114",
+		label="Auto-generated with netstat2graph.py",
+		lheight=0.21,
+		lp="181.25,11.5",
+		lwidth=2.97
+	];
+	node [label="\N"];
+	subgraph clusteratlas1 {
+		graph [bb="8,31,118,106",
+			color=lightgrey,
+			label=atlas1,
+			lheight=0.21,
+			lp="63,94.5",
+			lwidth=0.44,
+			style=filled
+		];
+		"atlas1/22/tcp"		 [color=darkgreen,
+			height=0.5,
+			label="22/tcp",
+			pos="63,57",
+			rankdir=LR,
+			shape=diamond,
+			style=filled,
+			width=1.3021];
+	}
+	"danae-bis"	 [color=green,
+		height=0.5,
+		label="danae-bis",
+		pos="163,57",
+		shape=box,
+		style=filled,
+		width=0.98611];
+	ulysse	 [color=sienna,
+		height=0.5,
+		label=ulysse,
+		pos="244,57",
+		shape=box,
+		style=filled,
+		width=0.75];
+	"ulysse-bis"	 [color=greenyellow,
+		height=0.5,
+		label="ulysse-bis",
+		pos="326,57",
+		shape=box,
+		style=filled,
+		width=1.0139];
+}

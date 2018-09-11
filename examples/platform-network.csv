@@ -1,0 +1,17 @@
+,Netid,State,process,LocalAddress,LocalPort,PeerAddress,PeerPort
+0,tcp,LISTEN,"users:((""mongod"",pid=1238,fd=6))",ulysse-bis,27017,*,*
+1,tcp,LISTEN,"users:((""nginx"",pid=1045,fd=6),(""nginx"",pid=1044,fd=6))",ulysse-bis,80,*,*
+2,tcp,LISTEN,"users:((""sshd"",pid=13592,fd=3))",ulysse-bis,22,*,*
+3,tcp,LISTEN,"users:((""master"",pid=953,fd=13))",ulysse-bis,25,*,*
+4,tcp,ESTAB,"users:((""telegraf"",pid=844,fd=3))",ulysse-bis,49564,ulysse,8086
+5,tcp,ESTAB,"users:((""nginx"",pid=1045,fd=4))",ulysse-bis,80,86.201.27.54,60367
+0,tcp,LISTEN,"users:((""nginx"",pid=21537,fd=7),(""nginx"",pid=21536,fd=7))",ulysse,80,*,*
+1,tcp,LISTEN,"users:((""sshd"",pid=7416,fd=3))",ulysse,22,*,*
+2,tcp,LISTEN,"users:((""nginx"",pid=21537,fd=9),(""nginx"",pid=21536,fd=9))",ulysse,443,*,*
+0,tcp,LISTEN,"users:((""sshd"",pid=7676,fd=3))",atlas1,22,*,*
+0,tcp,LISTEN,"users:((""nginx"",pid=23737,fd=10),(""nginx"",pid=23736,fd=10),(""nginx"",pid=2518,fd=10))",danae-bis,443,*,*
+1,tcp,LISTEN,"users:((""nginx"",pid=23737,fd=11),(""nginx"",pid=23736,fd=11),(""nginx"",pid=2518,fd=11))",danae-bis,8060,*,*
+2,tcp,LISTEN,"users:((""nginx"",pid=23737,fd=9),(""nginx"",pid=23736,fd=9),(""nginx"",pid=2518,fd=9))",danae-bis,80,*,*
+3,tcp,LISTEN,"users:((""bundle"",pid=2501,fd=17))",danae-bis,8082,*,*
+4,tcp,LISTEN,"users:((""gitaly"",pid=2511,fd=11))",danae-bis,9236,*,*
+5,tcp,LISTEN,"users:((""sshd"",pid=8242,fd=3))",danae-bis,22,*,*

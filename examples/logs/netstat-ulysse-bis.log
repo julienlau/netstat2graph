@@ -1,0 +1,7 @@
+Netid  State      Recv-Q Send-Q Local Address:Port               Peer Address:Port              
+tcp    LISTEN     0      128    127.0.0.1:27017                 *:*                   users:(("mongod",pid=1238,fd=6))
+tcp    LISTEN     0      128       *:80                    *:*                   users:(("nginx",pid=1045,fd=6),("nginx",pid=1044,fd=6))
+tcp    LISTEN     0      128       *:22                    *:*                   users:(("sshd",pid=13592,fd=3))
+tcp    LISTEN     0      100    127.0.0.1:25                    *:*                   users:(("master",pid=953,fd=13))
+tcp    ESTAB      0      0      137.74.43.48:49564              5.196.29.138:8086                users:(("telegraf",pid=844,fd=3))
+tcp    ESTAB      0      0      137.74.43.48:80                 86.201.27.54:60367               users:(("nginx",pid=1045,fd=4))
